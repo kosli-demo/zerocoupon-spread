@@ -129,131 +129,131 @@
   },
   {
     "repo_name": "matching-engine",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "domestic-issuer",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "server-certificate",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "acquiring-merchant",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "corporate-bond",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "open-position",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "payment-framework",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trading-account",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "global-custodian",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "asset-catalog",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "automated-validator",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "balanced-portfolio",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trading-datamart",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-datamart",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-catalog",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "proactive-compliance",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "core-liquidity",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "bearer-token",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "current-yield",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "forward-yield",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "transaction-archive",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "order-router",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "revolving-loan",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "format-adapter",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "overnight-swap",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "legal-contract",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "margin-calculator",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-notification",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "domestic-payment",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "internal-audit",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "registered-merchant",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "net-settlement",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "digital-wallet",
@@ -261,143 +261,143 @@
   },
   {
     "repo_name": "realtime-stream",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trade-statement",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "digital-audit",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trade-registry",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trade-warehouse",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "online-merchant",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "api-key",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "junior-bond",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "domestic-customer",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "retail-forex",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-module",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-framework",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "credit-risk",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "optionadjusted-spread",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-proxy",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "routing-proxy",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "smart-router",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "retail-broker",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "prime-broker",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "event-dispatcher",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "long-position",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "benchmark-rate",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "push-notification",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-trigger",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "gross-settlement",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "preferred-customer",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-framework",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "master-contract",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "zerocoupon-spread",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "atomic-transaction",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trading-agent",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "breach-threshold",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "report-scheduler",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-gateway",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "exchange-connector",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-relay",
